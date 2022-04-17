@@ -1,0 +1,13 @@
+@media(max-width:500px) {
+    .music-container {
+        width: 100%;
+    }
+
+    .img-container {
+        text-align: center;
+    }
+
+    #music-cover{
+        width: 80vw;
+    }
+}
