@@ -13,7 +13,7 @@ const next = document.querySelector('#next');
 const tracks = ['Angrezi Beat', 'Brown Rang', 'Lut Gaye', 'Mockingbird', 'Stan'];
 
 //index of track
-let trackIndex = 1;
+let trackIndex = 0;
 
 //initially load a track 
 loadTrack(tracks[trackIndex]);
